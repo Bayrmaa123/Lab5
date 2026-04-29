@@ -1,0 +1,5 @@
+bin/
+.vscode/
+.metals/
+*.class
+node_modules/
